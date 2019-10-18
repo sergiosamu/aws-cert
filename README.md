@@ -1,3 +1,17 @@
+# AWS Certified Solution Architect - Associate
+
+## Training Materials
+
+* Udemy online course
+* S3 FAQ
+
+## Preparation
+
+* View Udemy course
+* Read FAQ's
+* Create VPC from memory
+
+## Exam tips 
 
 * A reserved ec2 instance cannot be moved to a different region
 * Maximum running instances per placement group is 7
