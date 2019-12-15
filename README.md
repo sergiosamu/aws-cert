@@ -15,5 +15,13 @@ Basically my training has consisted in the following parts:
 5. Creating a demo proyect for the VPC section
 6. Reading Amazon S3 and ELB F.A.Q's
 
+## Training Materials
 
+* Udemy online course
+* S3 FAQ
+* ELB FAQ
 
+## Documents generated
+
+* Course summary
+* Exam tips
